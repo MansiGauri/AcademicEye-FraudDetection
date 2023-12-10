@@ -7,7 +7,7 @@ The paper introduced a model centered on average accuracy, combining K-nearest n
 According to the paper, the model is designed to perform effectively across various dataset sizes and types. Demonstrating substantial improvements in accuracy, this fraud detection model surpasses the limitations of individual models, signifying its significant utility.
 
 
-#@ Dataset
+# Dataset
 The dataset has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group (http://mlg.ulb.ac.be) of ULB (Université Libre de Bruxelles) on big data mining and fraud detection. The dataset was made available in Kaggle - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 The datasets contains transactions made by credit cards in September 2013 by european cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
