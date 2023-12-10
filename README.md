@@ -36,7 +36,7 @@ The proposed fraud detection technology aims for consistent precision and accura
 
 The research paper introduces a novel model centered on average accuracy for credit card fraud detection. The model combines K-Nearest Neighbor, neural networks, and decision trees, assigning a new label through majority voting for each incoming transaction. The accompanying image illustrates the model's versatility across various dataset sizes and types.
 
-### Key Features:
+# Key Insights:
 
 - Achieves substantial accuracy improvements.
 - Overcomes individual model limitations.
